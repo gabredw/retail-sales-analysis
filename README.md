@@ -1,1 +1,1 @@
-![Retail Sales Analysis Dashboard](Dashboard.png)
+![Retail Sales Analysis Dashboard](Retail-Sales-Dashboard.png)
