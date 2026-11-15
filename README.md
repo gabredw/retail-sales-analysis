@@ -1,1 +1,1 @@
-# retail-sales-analysis
+![Retail Sales Analysis Dashboard](Dashboard 1.png)
